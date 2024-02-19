@@ -2,7 +2,9 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor Python formado em Engenharia de Software e Ciência de Dados, com uma especialização em Inteligência Artificial e Machine Learning em andamento.
+Sou desenvolvedor Python, com formação em Engenharia de Software e Ciência de Dados. 
+
+Atualmente cursando especialização em Inteligência Artificial e Machine Learning.
 
 Durante minha trajetória acadêmica, adquiri conhecimento em engenharia de software e ciência de dados, participando ativamente de projetos de desenvolvimento de software e aplicando metodologias ágeis.
 
