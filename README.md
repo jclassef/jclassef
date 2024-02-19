@@ -31,3 +31,5 @@ Especialização em Inteligência Artificial e Machine Learning (em andamento)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jclassef&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## PS
+Este meu github é novo... perdi o acesso ao anterior e não me pergunte como... não consegui recuperá-lo.... Começando tudo de novo !!!
