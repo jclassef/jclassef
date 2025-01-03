@@ -14,11 +14,15 @@ Possuo habilidades técnicas em Python, Java, C++ e uma compreensão abrangente 
 
 Estou interessado em expandir minha rede profissional e trocar experiências com colegas da área. Vamos nos conectar!
 ## Formação Acadêmica
-Engenharia de Software - Universidade Cesumar
+Bacharelado em Engenharia de Software - Universidade Cesumar
 
-Ciências de Dados - Universidade do Estado de São Paulo
+Bacharelado em Ciências de Dados - Universidade do Estado de São Paulo
+
+Bacharelado em Tecnologia da Informação com ênfase em Análise de Dados - Universidade do Estado de São Paulo
 
 Tecnologia e Processos Gerenciais - Universidade Norte do Paraná 
+
+Pós Graduação em Engenharia de Automação e IOT - Universidade Anhanguera
 
 Especialização em Inteligência Artificial e Machine Learning (em andamento)
 ## Conecte-se comigo
