@@ -2,7 +2,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Python, com formação em Engenharia de Software e Ciência de Dados. 
+Sou desenvolvedor Python, com formação em Engenharia de Software, Tecnologia da Informação e Ciência de Dados. 
+
+Pós graduado em Engenharia de Automação.
 
 Atualmente cursando especialização em Inteligência Artificial e Machine Learning.
 
